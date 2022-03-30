@@ -1,0 +1,7 @@
+com\safiservices\customer\CustomerConfig.class
+com\safiservices\customer\Customer$CustomerBuilder.class
+com\safiservices\customer\CustomerController.class
+com\safiservices\customer\CustomerApplication.class
+com\safiservices\customer\CustomerService.class
+com\safiservices\customer\CustomerRepository.class
+com\safiservices\customer\Customer.class

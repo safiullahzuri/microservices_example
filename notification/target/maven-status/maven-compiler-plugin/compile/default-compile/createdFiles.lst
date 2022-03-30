@@ -1,0 +1,8 @@
+com\safiservices\notification\Notification$NotificationBuilder.class
+com\safiservices\notification\NotificationRepository.class
+com\safiservices\notification\NotificationApplication.class
+com\safiservices\notification\NotificationService.class
+com\safiservices\notification\NotificationController.class
+com\safiservices\notification\Notification.class
+com\safiservices\notification\NotificationConfig.class
+com\safiservices\notification\NotificationConsumer.class

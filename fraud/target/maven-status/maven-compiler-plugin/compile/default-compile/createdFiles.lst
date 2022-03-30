@@ -1,0 +1,6 @@
+com\safiservices\fraud\FraudCheckHistory$FraudCheckHistoryBuilder.class
+com\safiservices\fraud\FraudCheckRepository.class
+com\safiservices\fraud\FraudApplication.class
+com\safiservices\fraud\FraudCheckHistory.class
+com\safiservices\fraud\FraudCheckController.class
+com\safiservices\fraud\FraudCheckService.class

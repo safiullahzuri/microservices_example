@@ -1,0 +1,27 @@
+server:
+  port: 8080
+spring:
+  application:
+    name: customer
+  datasource:
+    username: 'amigoscode'
+    password: 'password'
+    url: jdbc:postgresql://192.168.99.100:5432/customer2
+  jpa:
+    generate-ddl: true
+    hibernate:
+      ddl-auto: create
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.PostgreSQLDialect
+        format_sql: 'true'
+    show-sql: 'true'
+  zipkin:
+    base-url: http://192.168.99.100:9411
+  rabbitmq:
+    addresses: 192.168.99.100:5672
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://192.168.99.100:8761/eureka

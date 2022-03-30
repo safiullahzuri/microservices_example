@@ -1,0 +1,4 @@
+com\safiservices\clients\fraud\FraudClient.class
+com\safiservices\clients\notification\NotificationRequest.class
+com\safiservices\clients\fraud\FraudCheckResponse.class
+com\safiservices\clients\notification\NotificationClient.class
